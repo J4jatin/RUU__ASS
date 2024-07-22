@@ -2,6 +2,11 @@ Here's a concise README for your "reunion-table" project on GitHub:
 
 ---
 
+## Deployment
+
+The project is deployed and can be accessed  https://bit.ly/3xYYwQO
+
+
 # Reunion Table
 
 A table management application built with React and Material-UI.
@@ -9,6 +14,7 @@ A table management application built with React and Material-UI.
 ## Project Overview
 
 Reunion Table is a web application designed to manage and display tabular data efficiently. It leverages React and various supporting libraries for a smooth and responsive user experience.
+
 
 ## Features
 
@@ -69,14 +75,9 @@ Reunion Table is a web application designed to manage and display tabular data e
    npm run dev
    
 
-## Deployment
 
-The project is deployed and can be accessed [here](https://deployed-link.com).
 
-## Project Image
-
-![Project Screenshot](https://deployed-link.com/screenshot.png)
 
 ---
 
-Feel free to replace the placeholders for the GitHub repository URL, deployed link, and screenshot URL with actual links.
+
